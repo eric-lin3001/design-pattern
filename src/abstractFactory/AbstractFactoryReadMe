@@ -1,0 +1,5 @@
+1. In this example, buttons and checkboxes will act as products. They have two variants: macOS and Windows.
+2. The abstract factory defines an interface for creating buttons and checkboxes. There are two concrete factories, which
+return both products in a single variant.
+3.
+
